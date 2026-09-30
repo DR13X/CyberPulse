@@ -24,7 +24,7 @@ Lightweight, rootless, terminal-only tool that aggregates live cybersecurity new
 ```bash
 pkg update
 pkg install python git
-git clone <your-repo-url> CyberPulse   # or copy the folder
+git clone https://github.com/DR13X/CyberPulse.git CyberPulse   # or copy the folder
 cd CyberPulse
 chmod +x install.sh
 ./install.sh
